@@ -16779,6 +16779,7 @@
         "Swiper": ""
       },
       "scripts": "swiper(?:\\.min)?\\.js",
+      "css": "swiper(?:\\.\\d)+?\\.css",
       "website": "https://swiperjs.com"
     },
     "Sylius": {
